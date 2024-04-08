@@ -1,0 +1,7 @@
+dspy-ai==2.4.5
+python-dotenv==1.0.1
+openai==1.16.2
+chromadb==0.4.24
+tqdm==4.66.2
+jupyterlab==4.1.6
+pydantic==2.5.0
